@@ -1,0 +1,9 @@
+PHP
+- Powerful, free, open-source programming language
+- Widely used in the web development industry
+- Fast, Stable, Cross-Platform
+- PHP can run on Linux, Windows, & MAC
+- Testing Server can be installed using WAMP/MAMP
+- PHP Processes scripts on a Web Server
+- PHP is a server side language
+- JavaScript, HTML, CSS are client side languages
