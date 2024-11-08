@@ -7,3 +7,10 @@ PHP
 - PHP Processes scripts on a Web Server
 - PHP is a server side language
 - JavaScript, HTML, CSS are client side languages
+
+PHP Variables Name Rules:
+- Must start with a $ sign, follow by the rest of the Name
+- then have a letter or underscore
+- Can't start with a number
+- Only contain alpha-numeric characters and underscores
+- Variable names are case-sensitive
