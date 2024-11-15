@@ -1,0 +1,15 @@
+Uses
+- Processing forms
+- Talking to a database
+- Creating secure areas
+- Reding text from a file
+
+Double Quotes
+- Strings in double quotes will be processed by PHP before being outputted
+
+Arrays - A collection of data that acts as key-value pairs
+Arrays are great for complex data sets.
+
+Types of Arrays
+- Indexable -> numbered keys
+- Associative -> strings as keys
